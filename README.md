@@ -16,28 +16,115 @@ Los programas están diseñados para ejecutarse en **Google Colab** y combinan t
   * Representación gráfica
   * Implementación con clases en Python
 
-* 📍 **Hipérbola**
+# 📘 Teoría de la Elipse
 
-  * Ecuaciones canónicas
-  * Cálculo de focos y asíntotas
-  * Visualización
+## 🔷 1. Definición
+Una **elipse** es el conjunto de puntos en el plano tales que:
+
+> La suma de las distancias a dos puntos fijos llamados **focos** es constante.
 
 ---
 
-### 🟢 Sección: Vectores
+## 🔷 2. Elementos de la elipse
 
-* ➕ Operaciones con vectores:
+- **Centro (C):** punto medio entre los focos  
+- **Focos (F₁, F₂):** puntos fijos dentro de la elipse  
+- **Eje mayor:** segmento más largo de la elipse  
+- **Eje menor:** segmento perpendicular al eje mayor  
+- **Semieje mayor (a):** mitad del eje mayor  
+- **Semieje menor (b):** mitad del eje menor  
+- **Distancia focal (c):** distancia del centro a cada foco  
 
-  * Suma
-  * Resta
-  * Producto escalar
-  * Producto vectorial
+---
 
-* 📐 Aplicaciones:
+## 🔷 3. Relación fundamental
 
-  * Magnitud de un vector
-  * Dirección
-  * Ángulos entre vectores
+$$
+c^2 = a^2 - b^2
+$$
+
+---
+
+## 🔷 4. Ecuación de la elipse
+
+### ✔️ Forma estándar (centro en el origen)
+
+### Horizontal:
+$$
+\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1
+$$
+
+### Vertical:
+$$
+\frac{x^2}{b^2} + \frac{y^2}{a^2} = 1
+$$
+
+---
+
+## 🔷 5. Ecuación con centro desplazado
+
+### Horizontal:
+$$
+\frac{(x - h)^2}{a^2} + \frac{(y - k)^2}{b^2} = 1
+$$
+
+### Vertical:
+$$
+\frac{(x - h)^2}{b^2} + \frac{(y - k)^2}{a^2} = 1
+$$
+
+Donde:
+- $(h, k)$ es el centro
+
+---
+
+## 🔷 6. Coordenadas importantes
+
+### ✔️ Eje horizontal:
+- Focos: $(\pm c, 0)$
+- Vértices: $(\pm a, 0)$
+
+### ✔️ Eje vertical:
+- Focos: $(0, \pm c)$
+- Vértices: $(0, \pm a)$
+
+---
+
+## 🔷 7. Excentricidad
+
+$$
+e = \frac{c}{a}
+$$
+
+- $0 < e < 1$
+- Mientras más cerca de 0 → más circular  
+- Mientras más cerca de 1 → más alargada  
+
+---
+
+## 🔷 8. Longitud de los ejes
+
+- Eje mayor: $2a$  
+- Eje menor: $2b$  
+
+---
+
+## 🔷 9. Aplicaciones
+
+- Órbitas planetarias  
+- Óptica (reflexión de la luz)  
+- Ingeniería y diseño  
+- Arquitectura  
+
+---
+
+## 🔷 10. Propiedad importante
+
+> La suma de distancias desde cualquier punto de la elipse a los focos es constante:
+
+$$
+d_1 + d_2 = 2a
+$$
 
 
 ---
