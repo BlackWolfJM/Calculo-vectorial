@@ -3,7 +3,7 @@
 <div style="border: 1px solid rgb(255, 255, 255); padding: 15px; border-radius: 5px;">
 En palabras simples parametrizar una ecuación es describir X y Y en funcion de una tercera variable a la que se le denomina parámetro, a la cual normalmente se le represtan con una letra t:
 
-$$ x(t) = f(t), y(t) = g(t) $$
+$$ x(t) = f(t), \quad y(t) = g(t) $$
 </div>
 
 
@@ -54,6 +54,6 @@ $$\vec{r}(t) = \vec{P}+t\vec{v}$$
 
 Y en el caso de una curva ocurre exactamente la misma idea: 
 
-$$ x = f(t), y = g(t)$$
+$$ x = f(t),\quad y = g(t)$$
 
 El intervalo de $t$ determina qué parte de la curva estás recorriendo. 
