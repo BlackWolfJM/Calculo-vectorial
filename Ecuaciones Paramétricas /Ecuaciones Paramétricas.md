@@ -16,7 +16,6 @@ $$ \vec{r}(t) = \begin{pmatrix} 6 - 3t \\ t -1 \end{pmatrix} $$
 
 $$\vec{r}(t) = (6 - 3t)\hat{i} + (t - 1)\hat{j}$$
 
-
 **Forma parámetrica o por componentes**
 $$
 \begin{cases} 
