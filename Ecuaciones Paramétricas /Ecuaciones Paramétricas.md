@@ -1,6 +1,6 @@
 # Ecuaciones Paramétricas 
 
-<div style="border: 1px solid rgb(255, 255, 255); padding: 15px; border-radius: 5px;">
+<div style="border: 1px solid rgb(0, 0, 0); padding: 15px; border-radius: 5px;">
 En palabras simples parametrizar una ecuación es describir X y Y en funcion de una tercera variable a la que se le denomina parámetro, a la cual normalmente se le represtan con una letra t:
 
 $$ x(t) = f(t), \quad y(t) = g(t) $$
@@ -23,7 +23,10 @@ $$
  t - 1 
 \end{cases}
 $$
+
 ---
+<div style="text-align: justify;">
+
 **Antes de aprender a parametrizar curvas, es importante distinguir entre parametrizar toda una curva y parametrizar solo una parte de ella. El procedimiento es prácticamente el mismo; la diferencia principal está en el intervalo del parámetro $t$. Si queremos recorrer toda la curva, elegimos un intervalo que permita cubrirla completamente; si queremos solo una parte, restringimos los valores de $t$.**
 
 **Por ejemplo**
@@ -57,4 +60,4 @@ $$ x = f(t),\quad y = g(t)$$
 
 El intervalo de $t$ determina qué parte de la curva estás recorriendo.
 
-
+</div>
