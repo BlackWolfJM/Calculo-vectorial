@@ -55,4 +55,6 @@ Y en el caso de una curva ocurre exactamente la misma idea:
 
 $$ x = f(t),\quad y = g(t)$$
 
-El intervalo de $t$ determina qué parte de la curva estás recorriendo. 
+El intervalo de $t$ determina qué parte de la curva estás recorriendo.
+
+
