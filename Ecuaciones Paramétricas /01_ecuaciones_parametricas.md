@@ -67,7 +67,6 @@ El intervalo de $t$ determina qué parte de la curva estás recorriendo.
 
 **Caso 1: Parametrizar una recta que une puntos:**
 
-# Gráfico de una recta que une dos puntos
 
 ```python {cmd=true matplotlib=true}
 import matplotlib.pyplot as plt
@@ -95,5 +94,7 @@ plt.ylim(0, 5)
 plt.show()
 
 ```
+
+![alt text](image-1.png)
 
 
