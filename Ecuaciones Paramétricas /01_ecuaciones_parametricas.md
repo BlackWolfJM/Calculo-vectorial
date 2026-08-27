@@ -61,3 +61,39 @@ $$ x = f(t),\quad y = g(t)$$
 El intervalo de $t$ determina qué parte de la curva estás recorriendo.
 
 </div>
+
+
+### Casos de Parametrización 
+
+**Caso 1: Parametrizar una recta que une puntos:**
+
+# Gráfico de una recta que une dos puntos
+
+```python {cmd=true matplotlib=true}
+import matplotlib.pyplot as plt
+
+# Puntos
+x1, y1 = 1, 2
+x2, y2 = 5, 4
+
+# Crear la recta
+x = [x1, x2]
+y = [y1, y2]
+
+plt.figure(figsize=(6,6))
+plt.plot(x, y, marker='o')
+plt.text(x1, y1, ' A(1,2)', fontsize=10)
+plt.text(x2, y2, ' B(5,4)', fontsize=10)
+
+# Ejes
+plt.axhline(0)
+plt.axvline(0)
+plt.grid(True)
+plt.xlim(0, 6)
+plt.ylim(0, 5)
+
+plt.show()
+
+```
+
+
