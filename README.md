@@ -73,7 +73,7 @@ Cada tema funciona como un índice. Dentro de él, los subtemas contienen su teo
 - Google Colab
 - Markdown
 
-## 👨‍💻 Autor
+##  Autor
 
 **Jeral Alexander Cueva Zapata**
 
