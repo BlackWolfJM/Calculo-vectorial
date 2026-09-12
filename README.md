@@ -1,8 +1,8 @@
-# 📐 Cálculo Vectorial
+#  Cálculo Vectorial
 
 Repositorio de estudio de **geometría analítica y cálculo vectorial**. El material sigue una ruta progresiva y combina teoría, ejercicios y visualización matemática con Python.
 
-## 🎯 Objetivo
+##  Objetivo
 
 - Comprender la teoría antes de aplicar fórmulas.
 - Resolver ejercicios paso a paso.
@@ -10,13 +10,13 @@ Repositorio de estudio de **geometría analítica y cálculo vectorial**. El mat
 - Comprobar resultados mediante Python.
 - Mantener cada contenido dentro de su tema y subtema.
 
-## 📌 Estado del proyecto
+##  Estado del proyecto
 
 - **Estado:** en desarrollo.
 - **Tema actual:** 03 - Ecuaciones paramétricas.
 - El tema 02 fue omitido porque correspondía a Estructuras Discretas.
 
-## 🗺️ Ruta de estudio
+##  Ruta de estudio
 
 ### Bloque I — Geometría analítica, parametrización y coordenadas polares
 
@@ -46,7 +46,7 @@ Repositorio de estudio de **geometría analítica y cálculo vectorial**. El mat
 - [18 - Funciones vectoriales](./18%20-%20Funciones%20vectoriales/)
 - [19 - Curvas espaciales y parametrización vectorial](./19%20-%20Curvas%20espaciales%20y%20parametrización%20vectorial/)
 
-## 📂 Sistema de archivos
+##  Sistema de archivos
 
 | Formato | Uso recomendado |
 |---|---|
@@ -55,11 +55,6 @@ Repositorio de estudio de **geometría analítica y cálculo vectorial**. El mat
 | `.png` / `.jpg` | Diagramas e imágenes de apoyo |
 
 Cada tema funciona como un índice. Dentro de él, los subtemas contienen su teoría y, cuando aporta valor, un notebook interactivo.
-
-## 📚 Contenido ya organizado
-
-- **Cónicas cartesianas:** teoría y notebooks de [Elipse](./01%20-%20Cónicas%20en%20coordenadas%20cartesianas/Elipse/) e [Hipérbola](./01%20-%20Cónicas%20en%20coordenadas%20cartesianas/Hipérbola/).
-- **Ecuaciones paramétricas:** índice dividido en los subtemas 03.1 a 03.11.
 
 ## 🚀 Cómo estudiar con el repositorio
 
