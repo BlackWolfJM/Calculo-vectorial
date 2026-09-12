@@ -1,31 +1,20 @@
 # 📐 Cálculo Vectorial
 
-Repositorio de estudio dedicado a **geometría analítica y cálculo vectorial**. Aquí se organizarán apuntes teóricos, ejercicios, gráficas y notebooks de Python siguiendo una ruta de aprendizaje progresiva.
-
-Los notebooks están pensados para ejecutarse principalmente en **Google Colab** y emplean herramientas como **NumPy** y **Matplotlib** para representar conceptos matemáticos de forma visual.
-
----
+Repositorio de estudio de **geometría analítica y cálculo vectorial**. El material sigue una ruta progresiva y combina teoría, ejercicios y visualización matemática con Python.
 
 ## 🎯 Objetivo
 
-Construir un material de estudio que permita:
-
-- comprender la teoría antes de aplicar fórmulas;
-- resolver ejercicios paso a paso;
-- visualizar curvas, cónicas, vectores y superficies;
-- comprobar resultados mediante Python;
-- mantener los contenidos ordenados según el temario del curso.
-
----
+- Comprender la teoría antes de aplicar fórmulas.
+- Resolver ejercicios paso a paso.
+- Visualizar curvas, cónicas, vectores y superficies.
+- Comprobar resultados mediante Python.
+- Mantener cada contenido dentro de su tema y subtema.
 
 ## 📌 Estado del proyecto
 
 - **Estado:** en desarrollo.
-- **Tema actual de estudio:** 03 - Ecuaciones paramétricas.
-- El tema 02 fue omitido porque correspondía a **Estructuras Discretas**, no a la ruta actual de Cálculo Vectorial.
-- Los contenidos y ejercicios se incorporarán progresivamente dentro de su carpeta correspondiente.
-
----
+- **Tema actual:** 03 - Ecuaciones paramétricas.
+- El tema 02 fue omitido porque correspondía a Estructuras Discretas.
 
 ## 🗺️ Ruta de estudio
 
@@ -57,36 +46,28 @@ Construir un material de estudio que permita:
 - [18 - Funciones vectoriales](./18%20-%20Funciones%20vectoriales/)
 - [19 - Curvas espaciales y parametrización vectorial](./19%20-%20Curvas%20espaciales%20y%20parametrización%20vectorial/)
 
----
+## 📂 Sistema de archivos
 
-## 📂 Organización del contenido
+| Formato | Uso recomendado |
+|---|---|
+| `README.md` | Teoría, fórmulas, procedimientos y enlaces del subtema |
+| `.ipynb` | Gráficas, código, comprobaciones y ejercicios para Google Colab |
+| `.png` / `.jpg` | Diagramas e imágenes de apoyo |
 
-Cada tema tendrá su propia carpeta. Según sea necesario, podrá contener:
+Cada tema funciona como un índice. Dentro de él, los subtemas contienen su teoría y, cuando aporta valor, un notebook interactivo.
 
-- apuntes teóricos en Markdown;
-- ejercicios resueltos y propuestos;
-- fórmulas y resúmenes;
-- imágenes y gráficas;
-- notebooks de Python;
-- material de práctica.
+## 📚 Contenido ya organizado
 
-Los archivos que ya existían en la raíz se conservarán mientras se completa su clasificación:
+- **Cónicas cartesianas:** teoría y notebooks de [Elipse](./01%20-%20Cónicas%20en%20coordenadas%20cartesianas/Elipse/) e [Hipérbola](./01%20-%20Cónicas%20en%20coordenadas%20cartesianas/Hipérbola/).
+- **Ecuaciones paramétricas:** índice dividido en los subtemas 03.1 a 03.11.
 
-- [elipse.ipynb](./elipse.ipynb)
-- [hiperbola.ipynb](./hiperbola.ipynb)
-- [Ecuaciones Paramétricas](./Ecuaciones%20Paramétricas%20/)
+## 🚀 Cómo estudiar con el repositorio
 
----
-
-## 🚀 Cómo usar el repositorio
-
-1. Selecciona el tema que estás estudiando en la ruta anterior.
-2. Revisa primero los conceptos y fórmulas principales.
-3. Intenta resolver los ejercicios sin mirar la solución.
-4. Utiliza los notebooks para visualizar o comprobar los resultados.
-5. Abre los archivos .ipynb en [Google Colab](https://colab.research.google.com/) cuando necesites ejecutarlos.
-
----
+1. Entra en el tema correspondiente.
+2. Lee el `README.md` del subtema.
+3. Resuelve los ejercicios sin mirar una solución.
+4. Usa el notebook para visualizar o comprobar tus resultados.
+5. Abre los archivos `.ipynb` en [Google Colab](https://colab.research.google.com/).
 
 ## ⚙️ Tecnologías
 
@@ -97,10 +78,8 @@ Los archivos que ya existían en la raíz se conservarán mientras se completa s
 - Google Colab
 - Markdown
 
----
-
 ## 👨‍💻 Autor
 
 **Jeral Alexander Cueva Zapata**
 
-Proyecto desarrollado como parte del proceso de aprendizaje y práctica de Cálculo Vectorial.
+Proyecto desarrollado como parte del aprendizaje y práctica de Cálculo Vectorial.
