@@ -46,6 +46,16 @@ Repositorio de estudio de **geometría analítica y cálculo vectorial**. El mat
 - [18 - Funciones vectoriales](./18%20-%20Funciones%20vectoriales/)
 - [19 - Curvas espaciales y parametrización vectorial](./19%20-%20Curvas%20espaciales%20y%20parametrización%20vectorial/)
 
+
+### Bloque IV — Curvas espaciales, sistemas de coordenadas y límites vectoriales
+
+- [20 - Hélices](./20%20-%20Hélices/)
+- [21 - Coordenadas cilíndricas](./21%20-%20Coordenadas%20cilíndricas/)
+- [22 - Coordenadas esféricas](./22%20-%20Coordenadas%20esféricas/)
+- [23 - Límites de funciones vectoriales](./23%20-%20Límites%20de%20funciones%20vectoriales/)
+- [24 - Norma y distancia de funciones vectoriales](./24%20-%20Norma%20y%20distancia%20de%20funciones%20vectoriales/)
+- [25 - Definición formal ε-δ para funciones vectoriales](./25%20-%20Definición%20formal%20ε-δ%20para%20funciones%20vectoriales/)
+
 ##  Sistema de archivos
 
 | Formato | Uso recomendado |
