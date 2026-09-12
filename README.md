@@ -56,7 +56,7 @@ Repositorio de estudio de **geometría analítica y cálculo vectorial**. El mat
 
 Cada tema funciona como un índice. Dentro de él, los subtemas contienen su teoría y, cuando aporta valor, un notebook interactivo.
 
-## 🚀 Cómo estudiar con el repositorio
+##  Cómo estudiar con el repositorio
 
 1. Entra en el tema correspondiente.
 2. Lee el `README.md` del subtema.
@@ -64,7 +64,7 @@ Cada tema funciona como un índice. Dentro de él, los subtemas contienen su teo
 4. Usa el notebook para visualizar o comprobar tus resultados.
 5. Abre los archivos `.ipynb` en [Google Colab](https://colab.research.google.com/).
 
-## ⚙️ Tecnologías
+##  Tecnologías
 
 - Python 3
 - NumPy
